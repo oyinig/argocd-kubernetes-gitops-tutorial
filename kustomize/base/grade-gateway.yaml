@@ -30,6 +30,6 @@ spec:
         exact: /grades
     route:
     - destination:
-        host: grade-submission-api
+        host: dev-grade-submission-api
         port:
           number: 3000
