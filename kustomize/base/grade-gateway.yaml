@@ -23,7 +23,7 @@ spec:
   hosts:
   - "*"
   gateways:
-  - grade-submission-gateway
+  - dev-grade-submission-gateway
   http:
   - match:
     - uri:
